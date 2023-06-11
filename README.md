@@ -13,4 +13,4 @@ I'm a Web Developer. And, I'm studying web development at [Rocketseat](https://r
 #### Contacts
 
 - 📬Email: janinesiqueira20@gmail.com
-- 👤Linkedin: https://www.linkedin.com/in/janine-siqueira/
+- 👤Linkedin: [linkedin.com/in/janine-siqueira/](https://www.linkedin.com/in/janine-siqueira-452b67251/)
